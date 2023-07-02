@@ -10,7 +10,14 @@
             "trailer": "https://www.youtube.com/watch?v=tTwFeGArcrs",
             "genre": "Драма,комедия",
             "year": "2011",
-            "point": "8.8"
+            "point": "8.8",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 2,
@@ -23,7 +30,14 @@
             "country": "CША,Канада",
             "genre": "Криминал,биография",
             "year": "2002",
-            "point": "8.5"
+            "point": "8.5",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 3,
@@ -36,7 +50,14 @@
             "country": "США",
             "genre": "Триллер,драма",
             "year": "2014",
-            "point": "8.0"
+            "point": "8.0",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 4,
@@ -49,7 +70,14 @@
             "country": "США,Великобритания",
             "genre": "Драма,комедия",
             "year": "2019",
-            "point": "7.7"
+            "point": "7.7",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 5,
@@ -62,7 +90,14 @@
             "country": "США",
             "genre": "Драма",
             "year": "1994",
-            "point": "9.1"
+            "point": "9.1",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 6,
@@ -75,7 +110,14 @@
             "country": "США",
             "genre": "Драма,фэнтези",
             "year": "1999",
-            "point": "9.1"
+            "point": "9.1",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 7,
@@ -88,7 +130,14 @@
             "country": "США",
             "genre": "Комедия, мелодрама",
             "year": "1994",
-            "point": "8.9"
+            "point": "8.9",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 8,
@@ -101,7 +150,14 @@
             "country": "Великобритания,США",
             "genre": "Триллер,фантастика",
             "year": "2006",
-            "point": "8.5"
+            "point": "8.5",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 9,
@@ -114,7 +170,14 @@
             "country": "США,Германия",
             "genre": "Триллер,драма",
             "year": "1999",
-            "point": "8.7"
+            "point": "8.7",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 10,
@@ -127,7 +190,14 @@
             "country": "США,Великобритания",
             "genre": "История,боевик",
             "year": "2000",
-            "point": "8.6"
+            "point": "8.6",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 11,
@@ -140,7 +210,14 @@
             "country": "США",
             "genre": "Драма, Биография",
             "year": "1993",
-            "point": "8.8"
+            "point": "8.8",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 12,
@@ -153,7 +230,14 @@
             "country": "США, Великобритания",
             "genre": "Фантастика,боевик",
             "year": "2010",
-            "point": "8.7"
+            "point": "8.7",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 13,
@@ -166,7 +250,14 @@
             "country": "США",
             "genre": "Драма,криминал",
             "year": "1972",
-            "point": "8.7"
+            "point": "8.7",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 14,
@@ -179,7 +270,14 @@
             "country": "Франция,США",
             "genre": "Боевик,триллер",
             "year": "1994",
-            "point": "8.7"
+            "point": "8.7",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 15,
@@ -192,7 +290,14 @@
             "country": "США",
             "genre": "Драма, Биография",
             "year": "2001",
-            "point": "8.5"
+            "point": "8.5",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 16,
@@ -205,7 +310,14 @@
             "country": "США",
             "genre": "Криминал,драма",
             "year": "1994",
-            "point": "8.6"
+            "point": "8.6",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 17,
@@ -218,7 +330,14 @@
             "country": "США",
             "genre": "Драма,музыка",
             "year": "2013",
-            "point": "8.4"
+            "point": "8.4",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 18,
@@ -231,7 +350,14 @@
             "country": "США",
             "genre": "Фантастика,боевик",
             "year": "2002",
-            "point": "7.7"
+            "point": "7.7",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 19,
@@ -244,7 +370,14 @@
             "country": "США",
             "genre": "Фантастика, боевик",
             "year": "2004",
-            "point": "7.3"
+            "point": "7.3",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 20,
@@ -257,7 +390,14 @@
             "country": "США",
             "genre": "Фантастика, боевик",
             "year": "2007",
-            "point": "7.1"
+            "point": "7.1",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 21,
@@ -270,7 +410,14 @@
             "country": "США,Великобритания",
             "genre": "Криминал,комедия",
             "year": "2016",
-            "point": "7.2"
+            "point": "7.2",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 22,
@@ -283,7 +430,14 @@
             "country": "США",
             "genre": "Драма,криминал",
             "year": "1990",
-            "point": "8.1"
+            "point": "8.1",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 23,
@@ -296,7 +450,14 @@
             "country": "Великобритания,США",
             "genre": "Драма,военный",
             "year": "2008",
-            "point": "8.2"
+            "point": "8.2",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 24,
@@ -309,7 +470,14 @@
             "country": "США",
             "genre": "Мультфильм,фантастика",
             "year": "2008",
-            "point": "8.4"
+            "point": "8.4",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 25,
@@ -322,7 +490,14 @@
             "country": "США",
             "genre": "мультфильм,фэнтези",
             "year": "1995",
-            "point": "7.9"
+            "point": "7.9",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 26,
@@ -335,7 +510,14 @@
             "country": "США",
             "genre": "Мультфильм, фэнтези",
             "year": "1999",
-            "point": "7.8"
+            "point": "7.8",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 27,
@@ -348,7 +530,14 @@
             "country": "США",
             "genre": "мультфильм, фэнтези",
             "year": "2010",
-            "point": "7.9"
+            "point": "7.9",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 28,
@@ -361,7 +550,14 @@
             "country": "США",
             "genre": "Мультфильм, фэнтези",
             "year": "2019",
-            "point": "7.7"
+            "point": "7.7",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 29,
@@ -374,7 +570,14 @@
             "country": "США, Япония",
             "genre": "Мультфильм,фэнтези",
             "year": "2018",
-            "point": "8.7"
+            "point": "8.7",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 30,
@@ -387,7 +590,14 @@
             "country": "США",
             "genre": "Мультфильм, приключения",
             "year": "2007",
-            "point": "8.0"
+            "point": "8.0",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 31,
@@ -400,7 +610,14 @@
             "country": "США,Канада",
             "genre": "Драма,криминал,",
             "year": "2019",
-            "point": "8.0"
+            "point": "8.0",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 32,
@@ -413,7 +630,14 @@
             "country": "США",
             "genre": "Детектив,криминал",
             "year": "2022",
-            "point": "7.1"
+            "point": "7.1",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 33,
@@ -426,7 +650,14 @@
             "country": "США",
             "genre": "Драма,криминал",
             "year": "2013",
-            "point": "8.0"
+            "point": "8.0",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 34,
@@ -439,7 +670,14 @@
             "country": "США,Великобритания",
             "genre": "Боевик,фантастика",
             "year": "2005",
-            "point": "7.9"
+            "point": "7.9",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 35,
@@ -452,7 +690,14 @@
             "country": "США,Великобритания",
             "genre": "Фантастика,боевик",
             "year": "2008",
-            "point": "8.5"
+            "point": "8.5",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 36,
@@ -465,7 +710,14 @@
             "country": "США,Великобритания",
             "genre": "Фантастика,боевик",
             "year": "2012",
-            "point": "8.2"
+            "point": "8.2",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 37,
@@ -478,7 +730,14 @@
             "country": "США",
             "genre": "Фантастика,боевик",
             "year": "2009",
-            "point": "8.0"
+            "point": "8.0",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 38,
@@ -491,7 +750,14 @@
             "country": "США",
             "genre": "Фантастика,фэнтези",
             "year": "2022",
-            "point": "7.8"
+            "point": "7.8",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 39,
@@ -504,7 +770,14 @@
             "country": "США,Мексика",
             "genre": "Мелодрама,история",
             "year": "1997",
-            "point": "8.4"
+            "point": "8.4",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 40,
@@ -517,7 +790,14 @@
             "country": "США,Великобритания",
             "genre": "Фантастика,боевик",
             "year": "1984",
-            "point": "8.0"
+            "point": "8.0",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 41,
@@ -530,7 +810,14 @@
             "country": "США",
             "genre": "Фантастика,боевик",
             "year": "1991",
-            "point": "8.3"
+            "point": "8.3",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 42,
@@ -543,7 +830,14 @@
             "country": "США",
             "genre": "Мультфильм,мюзикл",
             "year": "1994",
-            "point": "8.8"
+            "point": "8.8",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 43,
@@ -556,7 +850,14 @@
             "country": "США,Гонконг",
             "genre": "Мюзикл,драма",
             "year": "2016",
-            "point": "8.0"
+            "point": "8.0",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 44,
@@ -569,7 +870,14 @@
             "country": "США",
             "genre": "Мелодрама,комедия",
             "year": "2009",
-            "point": "7.6"
+            "point": "7.6",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 45,
@@ -582,7 +890,14 @@
             "country": "США",
             "genre": "Мелодрама,комедия",
             "year": "2009",
-            "point": "7.7"
+            "point": "7.7",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 46,
@@ -595,7 +910,14 @@
             "country": "США",
             "genre": "Мелодрама,комедия",
             "year": "2011",
-            "point": "7.3"
+            "point": "7.3",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 47,
@@ -608,7 +930,14 @@
             "country": "США,Великобритания",
             "genre": "Фантастика,драма",
             "year": "2014",
-            "point": "8.6"
+            "point": "8.6",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 48,
@@ -621,7 +950,14 @@
             "country": "США,Великобритания",
             "genre": "Фантастика,приключения",
             "year": "2015",
-            "point": "7.8"
+            "point": "7.8",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 49,
@@ -634,7 +970,14 @@
             "country": "США",
             "genre": "Драма,мелодрама",
             "year": "2000",
-            "point": "8.3"
+            "point": "8.3",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 50,
@@ -647,7 +990,14 @@
             "country": "США,Австралия",
             "genre": "Фантастика,триллер",
             "year": "2016",
-            "point": "7.2"
+            "point": "7.2",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 51,
@@ -660,176 +1010,274 @@
             "country": "США",
             "genre": "Триллер,детектив",
             "year": "2009",
-            "point": "8.5"
+            "point": "8.5",
+            "slogan": "",
+            "description": "",
+            "age": "",
+            "budget": "",
+            "feesInTheWorld": "",
+            "premiere": "",
+            "rolesDuplicated": ""
         },
         {
             "id": 52,
             "Poster": "https://cojo.ru/wp-content/uploads/2022/12/matritsa-1999-poster-1.webp",
             "title": "Матрица",
-            "actors": "Киану Ривз,Лоренс Фишбёрн",
+            "actors": "Киану Ривз,Лоренс Фишбёрн,Кэрри-Энн Мосс,Хьюго Уивинг,Глория Фостер,Джо Пантольяно,Маркус Чонг,Джулиан Араханга,Мэтт Доран,Белинда МакКлори",
             "producer": "Лана Вачовски,Лилли Вачовски",
             "time": "136 мин. / 02:16",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=YihPA42fdQ8",
             "country": "США, Австралия",
             "genre": "Фантастика, боевик",
             "year": "1999",
-            "point": "8.5"
+            "point": "8.5",
+            "slogan": "Добро пожаловать в реальный мир",
+            "description": "Жизнь Томаса Андерсона разделена на две части: днём он — самый обычный офисный работник, получающий нагоняи от начальства, а ночью превращается в хакера по имени Нео, и нет места в сети, куда он бы не смог проникнуть. Но однажды всё меняется. Томас узнаёт ужасающую правду о реальности.",
+            "age": "16+",
+            "budget": "$63 000 000",
+            "feesInTheWorld": "$463 517 383",
+            "premiere": "24 марта 1999",
+            "rolesDuplicated": "Всеволод Кузнецов,Владимир Вихров,Елена Соловьева,Владимир Антоник,Светлана Старикова"
         },
         {
             "id": 53,
             "Poster": "https://oir.mobi/uploads/posts/2020-01/thumbs/1580291870_3-p-posteri-k-matritsa-2-3.jpg",
             "title": "Матрица: Перезагрузка",
-            "actors": "Киану Ривз,Лоренс Фишбёрн",
+            "actors": "Киану Ривз,Лоренс Фишбёрн,Хьюго Уивинг,Кэрри-Энн Мосс,Джада Пинкетт Смит,Глория Фостер,Хэролд Перрино,Моника Беллуччи,Ламбер Вильсон,Рэндолл Дак Ким",
             "producer": "Лана Вачовски,Лилли Вачовски",
             "time": "138 мин. / 02:18",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=044mLLWMfQw",
             "country": "США",
             "genre": "Фантастика,боевик",
             "year": "2003",
-            "point": "7.7"
+            "point": "7.7",
+            "slogan": "Одни машины помогают нам жить, другие – пытаются нас убить",
+            "description": "Борцы за свободу Нео, Тринити и Морфеус продолжают руководить восстанием людей против армии машин. Они вынуждены использовать не только арсенал превосходного оружия, но и свои выдающиеся навыки. Участие в миссии по спасению человеческой расы от истребления приносит им более глубокое понимание Матрицы и осознание центральной роли Нео в судьбе человечества.",
+            "age": "16+",
+            "budget": "$150 000 000",
+            "feesInTheWorld": "$742 128 461",
+            "premiere": "7 мая 2003",
+            "rolesDuplicated": "Всеволод Кузнецов,Владимир Вихров,Владимир Антоник,Елена Соловьева,Жанна Никонова"
         },
         {
             "id": 54,
             "Poster": "https://i.pinimg.com/originals/de/b7/33/deb7335fa11d8cb0e7d0ce6acf4033bc.jpg",
             "title": "Матрица: Революция",
-            "actors": "Киану Ривз,Хьюго Уивинг",
+            "actors": "Киану Ривз,Хьюго Уивинг,Кэрри-Энн Мосс,Лоренс Фишбёрн,Хэролд Перрино,Джина Торрес,Джада Пинкетт Смит,Моника Беллуччи,Гарри Дж. Ленникс,Мэри Элис",
             "producer": "Лана Вачовски, Лилли Вачовски",
             "time": "129 мин. / 02:09",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=PCHMZH998aY",
             "country": "США",
             "genre": "Фантастика,боевик",
             "year": "2003",
-            "point": "7.6"
+            "point": "7.6",
+            "slogan": "Все, что имеет начало, имеет и конец",
+            "description": "Пока армия машин пытается уничтожить Зион, его жители из последних сил держат оборону.",
+            "age": "16+",
+            "budget": "$150 000 000",
+            "feesInTheWorld": "$427 343 298",
+            "premiere": "16 октября 2003",
+            "rolesDuplicated": "Всеволод Кузнецов,Владимир Антоник,Елена Соловьева,Владимир Вихров,Денис Беспалый"
         },
         {
             "id": 55,
             "Poster": "https://gtwallpaper.org/sites/default/files/wallpaper/207603/hd-the-matrix-reserructions-poster-wallpapers-207603-1260180-2720712.png",
             "title": "Матрица: Воскрешение",
-            "actors": "Киану Ривз,Кэрри-Энн Мосс",
+            "actors": "Киану Ривз,Кэрри-Энн Мосс,Яхья Абдул-Матин II,Джонатан Грофф,Джессика Хенвик,Нил Патрик Харрис,Джада Пинкетт Смит,Приянка Чопра Джонас,Кристина Риччи,Ламбер Вильсон",
             "producer": "Лана Вачовски",
             "time": "148 мин. / 02:28",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=8qB8EGNOtr8",
             "country": "США, Австралия",
             "genre": "Фантастика,боевик",
             "year": "2021",
-            "point": "5.7"
+            "point": "5.7",
+            "slogan": "Выбор за тобой",
+            "description": "Геймдизайнер Томас Андерсон сделал себе имя работой над трилогией игр «Матрица». Хотя окружающий мир периодически даёт сбои и обнажает свою истинную сущность, бывший Нео исправно посещает психотерапевта, принимает пилюли и практически убедил себя, что всё это — игра его воображения. Но однажды на него выходит хакерша Багз и предлагает снова следовать за белым кроликом.",
+            "age": "16+",
+            "budget": "$190 000 000",
+            "feesInTheWorld": "$157 286 805",
+            "premiere": "16 декабря 2021",
+            "rolesDuplicated": "Всеволод Кузнецов,Елена Соловьева, Александр Носков,Геннадий Новиков,Анна Киселёва"
         },
         {
             "id": 56,
             "Poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/4b55fa15-3b30-4b9a-b557-394c15a7948e/1920x",
             "title": "Грань будущего",
-            "actors": "Том Круз,Эмили Блант",
+            "actors": "Том Круз,Эмили Блант,Билл Пэкстон,Брендан Глисон,Ноа Тейлор,Джонас Армстронг,Тони Вэй,Кик Гарри,Франц Драмех,Драгомир Мрсич",
             "producer": "Даг Лайман",
             "time": "113 мин. / 01:53",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=lRbMOyy_Bdw",
             "country": "США,Канада",
-            "genre": "Фантастика,боевик",
+            "genre": "фантастика, боевик, приключения, военный",
             "year": "2014",
-            "point": "7.9"
+            "point": "7.9",
+            "slogan": "Живи. Умри. И снова",
+            "description": "В недалёком будущем раса инопланетян вторгается на Землю. Никакая армия в мире не может противостоять им. Майор Уильям Кейдж умирает в бою, но случается невозможное — он оказывается во временной петле. Раз за разом он попадает в один и тот же бой, сражается и умирает снова и снова. И каждое повторяющееся сражение приближает его к разгадке того, как победить врага.",
+            "age": "12+",
+            "budget": "$178 000 000",
+            "feesInTheWorld": "$370 541 256",
+            "premiere": "28 мая 2014",
+            "rolesDuplicated": "Всеволод Кузнецов,Мария Фортунатова,Андрей Градов,Алексей Рязанцев,Андрей Казанцев"
         },
         {
             "id": 57,
             "Poster": "https://m.media-amazon.com/images/M/MV5BNThlOTFhOGEtZjE2NC00MzMzLThkYWItZjlkNWNlMDAzMGZkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
             "title": "Звездный десант",
-            "actors": "Каспер Ван Дин,Дина Мейер",
+            "actors": "Каспер Ван Дин,Дина Мейер,Дениз Ричардс,Джейк Бьюзи,Нил Патрик Харрис,Клэнси Браун,Сет Гиллиам,Патрик Малдун,Майкл Айронсайд,Ру МакКлэнахан",
             "producer": "Пол Верховен",
             "time": "124 мин. / 02:04",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=hcXdXNSOIHg",
             "country": "США",
             "genre": "Фантастика,боевик",
             "year": "1997",
-            "point": "7.6"
+            "point": "7.6",
+            "slogan": "Отныне человечество - вымирающий вид!",
+            "description": "Конец XXIII века. Несметные полчища гигантских разумных жуков с далёкой системы планет Клендату угрожают всему человечеству. На Земле царит милитаризм, а служба в армии гарантирует гражданство. Окончив школу, отличница и красавица Кармен отправляется в лётное училище, её парень Джонни не может похвастаться хорошими знаниями математики, поэтому наперекор родителям записывается в военную пехоту.",
+            "age": "16+",
+            "budget": "$105 000 000",
+            "feesInTheWorld": "$121 214 377",
+            "premiere": "4 ноября 1997",
+            "rolesDuplicated": "Иван Латышев,Александра Кожевникова,Татьяна Михалевкина,Александр Демич,Олег Куликович"
         },
         {
             "id": 58,
             "Poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/af69a221-5921-4186-b700-2197d39e8362/3840x",
             "title": "Драйв",
-            "actors": "Райан Гослинг,Кэри Маллиган",
+            "actors": "Райан Гослинг,Кэри Маллиган,Брайан Крэнстон,Альберт Брукс,Оскар Айзек,Кристина Хендрикс,Рон Перлман,Расс Тэмблин,Джефф Вульф,Джеймс Бибери",
             "producer": "Николас Виндинг Рефн",
             "time": "100 мин. / 01:40",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=SDhGly0CgvQ",
             "country": "США",
-            "genre": "Криминал,драма",
+            "genre": "криминал,драма,триллер",
             "year": "2011",
-            "point": "7.3"
+            "point": "7.3",
+            "slogan": "Some Heroes Are Real",
+            "description": "Великолепный водитель – при свете дня он выполняет каскадерские трюки на съёмочных площадках Голливуда, а по ночам ведет рискованную игру. Но один опасный контракт – и за его жизнь назначена награда. Теперь, чтобы остаться в живых и спасти свою очаровательную соседку, он должен делать то, что умеет лучше всего – виртуозно уходить от погони.",
+            "age": "18+",
+            "budget": "$15 000 000",
+            "feesInTheWorld": "$76 976 666",
+            "premiere": "20 мая 2011",
+            "rolesDuplicated": "Данил Щебланов,Татьяна Шитова,Валерий Сторожик,Алексей Иващенко,ван Жарков"
         },
         {
             "id": 59,
             "Poster": "https://papik.pro/uploads/posts/2021-10/1634575814_24-papik-pro-p-dzhentlmeni-poster-25.jpg",
             "title": "Джентльмены",
-            "actors": "Мэттью МакКонахи,Чарли Ханнэм",
+            "actors": "Мэттью МакКонахи,Чарли Ханнэм,Генри Голдинг,Хью Грант,Мишель Докери,Джереми Стронг,Эдди Марсан,Джейсон Вонг,Колин Фаррелл,Лин Рене",
             "producer": "Гай Ричи",
             "time": "113 мин. / 01:53",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=dABPCMxu074",
             "country": "Великобритания,США",
             "genre": "криминал,комедия,боевик",
             "year": "2019",
-            "point": "8.6"
+            "point": "8.6",
+            "slogan": "Criminal. Class",
+            "description": "Наркобарон хочет уйти на покой, но криминальный мир не отпускает. Один ушлый американец ещё со студенческих лет приторговывал наркотиками, а теперь придумал схему нелегального обогащения с использованием поместий обедневшей английской аристократии и очень неплохо на этом разбогател.",
+            "age": "18+",
+            "budget": "$22 000 000",
+            "feesInTheWorld": "$115 171 795",
+            "premiere": "3 декабря 2019",
+            "rolesDuplicated": "Василий Дахненко,Сергей Смирнов,Филипп Бледный,Алексей Иващенко,Татьяна Шитова"
         },
         {
             "id": 60,
             "Poster": "https://i.pinimg.com/originals/1d/9b/e3/1d9be353d8e661fd1972d453f6d5c9d4.jpg",
             "title": "Гнев человеческий",
-            "actors": "Джейсон Стэйтем,Холт Маккэллани",
+            "actors": "Джейсон Стэйтем,Холт Маккэллани,Джеффри Донован,Джош Хартнетт,Лас Алонсо,Алекс Фернс,Рауль Кастильо,Деобиа Опарей,Скотт Иствуд,Нив Алгар",
             "producer": "Гай Ричи",
             "time": "119 мин. / 01:59",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=YLw55x-zOSo",
             "country": "Великобритания,США",
             "genre": "боевик,триллер",
             "year": "2021",
-            "point": "7.6"
+            "point": "7.6",
+            "slogan": "-",
+            "description": "Грузовики лос-анджелесской инкассаторской компании Fortico Security часто подвергаются нападениям, и во время очередного ограбления погибают оба охранника. Через некоторое время в компанию устраивается крепкий немногословный британец Патрик Хилл. Он получает от босса прозвище Эйч и, впритык к необходимому минимуму пройдя тесты по фитнесу, стрельбе и вождению, отправляется на первое задание. ",
+            "age": "18+",
+            "budget": "$40 000 000",
+            "feesInTheWorld": "$103 966 489",
+            "premiere": "22 апреля 2021",
+            "rolesDuplicated": "Владимир Зайцев,Сергей Чихачёв,Илья Исаев,Григорий Калинин,Артур Бесчастный"
         },
         {
             "id": 61,
             "Poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/1b4b73ac-566c-44a9-9751-3d5436cc6411/1920x",
             "title": "Легенда №17",
-            "actors": "Данила Козловский,Олег Меньшиков",
+            "actors": "Данила Козловский,Олег Меньшиков,Светлана Иванова,Владимир Меньшов,Александр Лобанов,Сергей Генкин,Роман Мадянов,Александр Яковлев,Алехандра Грепи,Борис Щербаков",
             "producer": "Николай Лебедев",
             "time": "134 мин. / 02:14",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=BRWyTgdWKZY",
             "country": "Россия",
             "genre": "Биография,спорт",
             "year": "2012",
-            "point": "8.0"
+            "point": "8.0",
+            "slogan": "—",
+            "description": "История жизни хоккеиста Валерия Харламова.После серьезного ДТП хоккеист хочет вернуться на лед ради важной игры. Вдохновляющая драма о Валерии Харламове.",
+            "age": "6+",
+            "budget": "€10 000 000",
+            "feesInTheWorld": "$45 620 097",
+            "premiere": "18 апреля 2013",
+            "rolesDuplicated": "-"
         },
         {
             "id": 62,
             "Poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/794f7f77-3bff-495f-bb62-e0c6de3c4789/3840x",
             "title": "Движение вверх",
-            "actors": "Владимир Машков,Андрей Смоляков",
+            "actors": "Владимир Машков,Андрей Смоляков,Иван Колесников,Кирилл Зайцев,Джон Сэвэдж,Марат Башаров,Александра Ревенко,Виктория Толстоганова,Сергей Гармаш,Джеймс Тратас",
             "producer": "Антон Мегердичев",
             "time": "133 мин. / 02:13",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=w3pp2ek35HY",
             "country": "Россия",
             "genre": "Спорт,драма",
             "year": "2017",
-            "point": "7.5"
+            "point": "7.5",
+            "slogan": "—",
+            "description": "Есть победы, которые меняют ход истории. Победы духа, победы страны, победы всего мира. Таким триумфом стали легендарные «три секунды» - выигрыш сборной СССР по баскетболу на роковой мюнхенской Олимпиаде 1972 г. Впервые за 36 лет была повержена «непобедимая» команда США. Никто даже помыслить не мог о том, что это возможно – обыграть великолепных непогрешимых американцев на Олимпийских играх! Никто, кроме советских баскетболистов (русских и грузин, украинцев и казахов, белорусов и литовцев).",
+            "age": "6+",
+            "budget": "₽590 192 191",
+            "feesInTheWorld": "$59 884 129",
+            "premiere": "5 января 2018",
+            "rolesDuplicated": "-"
         },
         {
             "id": 63,
             "Poster": "https://m.media-amazon.com/images/M/MV5BMThiZjNlMzItMTdhMi00NzZkLWIxZWItOGE3NWU0YzU2M2NkXkEyXkFqcGdeQXVyMTEyMTQyNzA1._V1_FMjpg_UX1000_.jpg",
             "title": "Ирония судьбы, или С легким паром! ",
-            "actors": "Андрей Мягков,Барбара Брыльска",
+            "actors": "Андрей Мягков,Барбара Брыльскаб,Юрий Яковлев,Александр Ширвиндт,Георгий Бурков,Лия Ахеджакова,Александр Белявский,Любовь Добржанская,Ольга Науменко,Готлиб Ронинсон",
             "producer": "Эльдар Рязанов",
             "time": "184 мин. / 03:04",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=sDdrTIp8mxs",
             "country": "СССР",
             "genre": "Мелодрама,комедия",
             "year": "1975",
-            "point": "8.2"
+            "point": "8.2",
+            "slogan": "-",
+            "description": "31 декабря пошли друзья в баню попариться, по традиции смыть с себя все плохое, чтобы встретить Новый год чистыми, а «напарились» до такой степени (пивом и водкой), что отправили в Ленинград не того.",
+            "age": "6+",
+            "budget": "-",
+            "feesInTheWorld": "-",
+            "premiere": "-",
+            "rolesDuplicated": "Сергей Никитин,Валентина Талызина,Алла Пугачёва"
         },
         {
             "id": 64,
             "Poster": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/8c4dbb14195313.5627f30a18f55.jpg",
             "title": "Бесславные ублюдки",
-            "actors": "Брэд Питт,Кристоф Вальц",
+            "actors": "Брэд Питт,Кристоф Вальц,Мелани Лоран,Даниэль Брюль,Дайан Крюгер,Майкл Фассбендер,Аугуст Диль,Элай Рот,Тиль Швайгер,Гедеон Буркхард",
             "producer": "Квентин Тарантино",
             "time": "153 мин. / 02:33",
-            "trailer": "",
+            "trailer": "https://www.youtube.com/watch?v=KgjEC2Wxy3Q",
             "country": "Германия,США",
-            "genre": "Боевик, драма",
+            "genre": "боевик, драма, комедия, военный",
             "year": "2009",
-            "point": "8.0"
+            "point": "8.0",
+            "slogan": "Они мстят бодро, весело, со вкусом",
+            "description": "Вторая мировая война. В оккупированной немцами Франции группа американских солдат-евреев наводит страх на нацистов, жестоко убивая и скальпируя солдат.",
+            "age": "16+",
+            "budget": "$70 000 000",
+            "feesInTheWorld": "$321 455 689",
+            "premiere": "20 мая 2009",
+            "rolesDuplicated": "Владимир Зайцев,Василий Дахненко,Наталья Грачёва,Диомид Виноградов,Полина Щербакова"
         }
     ]
 }
